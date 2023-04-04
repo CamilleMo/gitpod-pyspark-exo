@@ -1,5 +1,10 @@
+
 image:
   file: .gitpod.Dockerfile
 
 tasks:
   - init: echo 'Workspace initialized'
+
+vscode:
+  extensions:
+    - ms-python.python
