@@ -1,0 +1,7 @@
+customer_id,first_name,last_name,gender,age,email
+101,John,Doe,M,35,john.doe@example.com
+102,Jane,Smith,F,28,jane.smith@example.com
+103,Michael,Johnson,M,42,michael.johnson@example.com
+104,Emma,Williams,F,33,emma.williams@example.com
+105,David,Brown,M,29,david.brown@example.com
+106,Olivia,Jones,F,40,olivia.jones@example.com
